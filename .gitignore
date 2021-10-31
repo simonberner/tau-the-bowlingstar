@@ -3,4 +3,5 @@
 .DS_Store
 .classpath
 .project
+.class
 build
