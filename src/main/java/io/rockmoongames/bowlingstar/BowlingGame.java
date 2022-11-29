@@ -20,7 +20,7 @@ public class BowlingGame {
      * @return the total score of the game
      */
     public int score() {
-
+    //test 2
         var frames = 0; // counts the frames
         var score = 0; // holds the total score of a game
         var rollIndex = 0; // move between each roll in the rolls[]
