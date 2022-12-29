@@ -9,3 +9,4 @@ If you want know more about the exciting moment when this course got released, [
 
 Have fun with my course! 🥳
 Update 1
+Update 2 - remote edit
