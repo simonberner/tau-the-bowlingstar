@@ -12,3 +12,6 @@ Update 1\
 Update 2 - remote edit\
 Update 3 - test stash\
 test3-lisa-rebase\
+Test5-isa-amend - fixed
+Test6-lisa-rewrite-history
+Test7-lisa-rewrite-history
